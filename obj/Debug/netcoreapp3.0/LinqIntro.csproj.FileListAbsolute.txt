@@ -1,0 +1,11 @@
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.deps.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.runtimeconfig.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.runtimeconfig.dev.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.pdb
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.csprojAssemblyReference.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.AssemblyInfoInputs.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.AssemblyInfo.cs
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.pdb
